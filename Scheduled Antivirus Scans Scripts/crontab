@@ -1,0 +1,1 @@
+0 5 * * 1 echo "/home/pi/" "/home/pi/Documents/Programming/automation-sysadmin-scripts/Scheduled Antivirus Scans Scripts/scan_directory.sh"
